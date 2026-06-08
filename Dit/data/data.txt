@@ -1,1 +1,1 @@
-add data like goto
+Datasets are arranged in GTOT format.
